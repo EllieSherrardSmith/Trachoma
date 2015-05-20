@@ -1,0 +1,424 @@
+"","comid","va","sex","ethnicgroup","ethnotdiola","occupation","monthlyincome","moneyaside","school","latrine","sharedorprivate","watersource","anytt"
+"1","NIANKITE",0,"female","Diola","Diola","Agriculteur",5000,"Loss","No","No",NA,"Uncovered outside well",3
+"3","NIANKITE",0,"female","Diola","Diola","Agriculteur",68250,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"4","NIANKITE",0,"male","Diola","Diola","Agriculteur",75000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"5","NIANKITE",0,"female","Diola","Diola","Agriculteur",10000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"7","NIANKITE",0,"female","Diola","Diola","Agriculteur",15000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"8","NIANKITE",0,"female","Diola","Diola","Agriculteur",15000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"9","NIANKITE",0,"female","Diola","Diola","Agriculteur",30000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"10","NIANKITE",0,"female","Diola","Diola","Agriculteur",30000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"12","NIANKITE",0,"female","Diola","Diola","Agriculteur",10000,"Loss","No","No",NA,"Uncovered outside well",3
+"13","CAPARAN",0,"female","Diola","Diola","Agriculteur",10000,"Loss","No","Yes","Private","Inside well",3
+"15","CAPARAN",0,"male","Diola","Diola","Agriculteur",70000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"16","CAPARAN",0,"female","Diola","Diola","Agriculteur",70000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"17","CAPARAN",0,"female","Diola","Diola","Agriculteur",70000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"18","CAPARAN",1,"female","Diola","Diola","Agriculteur",70000,"Loss","Yes","Yes","Shared","Uncovered outside well",1
+"19","SUELLEZONE2",0,"female","Diola","Diola","Agriculteur",25000,"Loss","Yes","No",NA,"Uncovered outside well",3
+"20","SUELLEZONE2",1,"male","Diola","Diola","Agriculteur",25000,"Loss","Yes","No",NA,"Uncovered outside well",1
+"22","SUELLEZONE2",0,"male","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"23","SUELLEZONE2",0,"female","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"24","SUELLEZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"No","No",NA,"Uncovered outside well",3
+"25","SUELLEZONE2",1,"female","Diola","Diola","Agriculteur",NA,NA,"No","No",NA,"Uncovered outside well",1
+"26","SUELLEZONE2",0,"male","Diola","Diola","Agriculteur",1500,"Loss","No","Yes","Shared","Uncovered outside well",3
+"27","SUELLEZONE2",0,"male","Diola","Diola","Agriculteur",1500,"Loss","No","Yes","Shared","Uncovered outside well",3
+"29","DIACOYECOMBOLY",0,"female","Diola","Diola","Agriculteur",35000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"30","DIACOYECOMBOLY",0,"female","Diola","Diola","Agriculteur",30000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"32","DIACOYECOMBOLY",0,"male","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Shared","Inside tap",3
+"33","DIACOYECOMBOLY",0,"female","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Shared","Inside tap",3
+"34","DIACOYECOMBOLY",0,"female","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Shared","Inside tap",3
+"36","BRINDIAGO",0,"male","Diola","Diola","Agriculteur",1500,"Loss","No","Yes","Shared","Uncovered outside well",3
+"37","BRINDIAGO",0,"female","Diola","Diola","Agriculteur",75000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"38","BRINDIAGO",0,"male","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Private","Inside well",3
+"39","BRINDIAGO",0,"female","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Private","Inside well",3
+"41","BRINDIAGO",0,"female","Diola","Diola","Agriculteur",12000,"Break even","No","Yes","Shared","Inside well",3
+"42","BRINDIAGO",0,"female","Diola","Diola","Agriculteur",35000,"Loss","No","No",NA,"Uncovered outside well",3
+"44","BOUYEME",0,"female","Diola","Diola","Agriculteur",300000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"45","BOUYEME",1,"male","Diola","Diola","Agriculteur",75000,"Break even","Yes","No",NA,"Uncovered outside well",1
+"46","BOUYEME",0,"male","Diola","Diola","Agriculteur",60000,"Saving","Yes","Yes","Shared","Inside well",3
+"47","BOUYEME",0,"male","Diola","Diola","Agriculteur",5000,"Loss","No","Yes","Shared","Uncovered outside well",3
+"50","MEDJEDJEZONE1",0,"female","Diola","Diola","Other",4000,"Loss","No","Yes","Shared","Uncovered outside well",3
+"51","MEDJEDJEZONE1",0,"male","Diola","Diola","Agriculteur",14170,"Loss","No","Yes","Shared","Uncovered outside well",3
+"53","MEDJEDJEZONE1",0,"female","Diola","Diola","Agriculteur",10000,"Loss","No","Yes","Private","Inside well",3
+"54","MEDJEDJEZONE1",1,"male","Diola","Diola","Agriculteur",1000,"Loss","No","Yes","Private","Uncovered outside well",1
+"56","COUROUCK",1,"male","Diola","Diola","Agriculteur",70000,"Loss","No","No",NA,"Uncovered outside well",1
+"57","COUROUCK",1,"female","Diola","Diola","Agriculteur",70000,"Loss","No","No",NA,"Uncovered outside well",1
+"59","COUROUCK",0,"female","Diola","Diola","Agriculteur",40000,"Loss","No","No",NA,"Uncovered outside well",3
+"60","COUROUCK",0,"female","Diola","Diola","Agriculteur",1000,"Loss","No","Yes","Shared","Uncovered outside well",3
+"61","COUROUCK",0,"male","Diola","Diola","Agriculteur",25000,"Loss","Yes","Yes","Shared","Outside coevered well with pump",3
+"62","KAGNAROUZONE1",0,"male","Diola","Diola","Agriculteur",60000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"63","KAGNAROUZONE1",1,"male","Diola","Diola","Agriculteur",10000,"Loss","No","No",NA,"Other",1
+"64","KAGNAROUZONE1",0,"male","Diola","Diola","Agriculteur",10000,"Loss","No","Yes","Private","Inside well",3
+"65","KAGNAROUZONE1",1,"female","Diola","Diola","Agriculteur",10000,"Loss","No","Yes","Private","Inside well",1
+"67","KAGNAROUZONE1",0,"male","Diola","Diola","Agriculteur",45000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"68","KAGNAROUZONE1",0,"male","Diola","Diola","Agriculteur",45000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"74","SINDIANZONE2",0,"male","Diola","Diola","Agriculteur",25000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"75","SINDIANZONE2",1,"male","Diola","Diola","Agriculteur",10000,"Loss","Yes","Yes","Private","Uncovered outside well",1
+"76","SINDIANZONE2",0,"female","Diola","Diola","Agriculteur",10000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"77","SINDIANZONE2",0,"female","Diola","Diola","Agriculteur",10000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"78","SINDIANZONE2",0,"female","Diola","Diola","Agriculteur",20000,"Loss","No","Yes","Private","Inside well",3
+"79","SINDIANZONE2",0,"female","Diola","Diola","Agriculteur",80000,"Loss","No","Yes","Shared","Uncovered outside well",3
+"83","SINDIANZONE4",1,"male","Diola","Diola","Agriculteur",120000,"Break even","No","Yes","Shared","Uncovered outside well",1
+"85","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",120000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"86","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",25000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"88","SINDIANZONE4",0,"male","Diola","Diola","Agriculteur",2000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"89","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",2000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"90","SINDIANZONE4",1,"female","Diola","Diola","Agriculteur",2000,"Loss","Yes","Yes","Shared","Uncovered outside well",1
+"91","SINDIANZONE4",0,"male","Diola","Diola","Other",50000,"Saving","Yes","Yes","Shared","Outside coevered well with pump",3
+"92","SINDIANZONE4",0,"female","Diola","Diola","Other",50000,"Saving","Yes","Yes","Shared","Outside coevered well with pump",3
+"93","SINDIANZONE4",0,"male","Diola","Diola","Agriculteur",60000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"94","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",60000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"95","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",60000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"96","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",70000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"97","SINDIANZONE4",0,"female","Diola","Diola","Agriculteur",70000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"98","MANGUILINEBELFORTZONE1",0,"female","Peulh","Not Diola","Sans activite",135000,"Loss","Yes","Yes","Private","Inside tap",3
+"99","MANGUILINEBELFORTZONE1",0,"female","Peulh","Not Diola","Sans activite",135000,"Loss","Yes","Yes","Private","Inside tap",3
+"100","MANGUILINEBELFORTZONE1",0,"female","Diola","Diola","Sans activite",30000,"Loss","Yes","Yes","Private","Inside tap",3
+"101","MANGUILINEBELFORTZONE1",0,"female","Diola","Diola","Sans activite",30000,"Loss","Yes","Yes","Private","Inside tap",3
+"102","MANGUILINEBELFORTZONE1",0,"male","Diola","Diola","Agriculteur",13350,"Saving","Yes","Yes","Shared","Inside well",3
+"103","MANGUILINEBELFORTZONE1",0,"female","Diola","Diola","Agriculteur",13350,"Saving","Yes","Yes","Shared","Inside well",3
+"104","MANGUILINEBELFORTZONE1",0,"female","Diola","Diola","Other",93000,"Saving","No","Yes","Private","Uncovered outside well",3
+"105","MANGUILINEBELFORTZONE1",1,"female","Diola","Diola","Other",73500,"Break even","Yes","Yes","Private","Inside well",1
+"106","MANGUILINEBELFORTZONE1",0,"male","Diola","Diola","Other",290000,"Saving","Yes","Yes","Private","Inside well",3
+"108","MANGUILINEBELFORTZONE1",0,"male","Diola","Diola","Other",15000,"Break even","Yes","Yes","Shared","Inside well",3
+"109","MANGUILINEBELFORTZONE1",0,"female","Diola","Diola","Agriculteur",50000,"Loss","Yes","Yes","Shared","Inside well",3
+"110","MEDINAPLATEAUZONE1",0,"male","Diola","Diola","Other",100000,"Saving","Yes","Yes","Shared","Inside tap",3
+"111","MEDINAPLATEAUZONE1",0,"female","Diola","Diola","Other",65000,"Saving","Yes","Yes","Private","Inside tap",3
+"112","MEDINAPLATEAUZONE1",0,"female","Diola","Diola","Other",65000,"Saving","Yes","Yes","Private","Inside tap",3
+"114","MEDINAPLATEAUZONE1",0,"female","Diola","Diola","Other",110150,"Saving","Yes","Yes","Private","Inside well",3
+"115","MEDINAPLATEAUZONE1",0,"female","Diola","Diola","Other",110150,"Saving","Yes","Yes","Private","Inside well",3
+"116","MEDINAPLATEAUZONE1",0,"male","Diola","Diola","Other",110150,"Saving","Yes","Yes","Private","Inside well",3
+"117","MEDINAPLATEAUZONE1",1,"male","Diola","Diola","Other",110150,"Saving","Yes","Yes","Private","Inside well",1
+"119","BASSENEZONE5",0,"male","Peulh","Not Diola","Other",150000,"Break even","Yes","Yes","Shared","Inside tap",3
+"120","BASSENEZONE5",0,"female","Other","Not Diola","Sans activite",90000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"122","BASSENEZONE5",0,"female","Other","Not Diola","Sans activite",100000,"Saving","Yes","No",NA,"Uncovered outside well",3
+"123","BASSENEZONE5",0,"female","Diola","Diola","Other",18000,"Loss","Yes","Yes","Private","Inside tap",3
+"124","BASSENEZONE5",0,"female","Diola","Diola","Sans activite",11100,"Loss","No","No",NA,"Inside well",3
+"125","BASSENEZONE5",0,"male","Other","Not Diola","Other",NA,NA,"Yes","Yes","Private","Inside tap",3
+"127","ANIMATIONZONE5",0,"male","Diola","Diola","Other",100000,"Loss","Yes","Yes","Private","Inside well",3
+"129","CHATEAUDEAUZONE4",0,"female","Peulh","Not Diola","Sans activite",60000,"Saving","No","Yes","Private","Inside tap",3
+"130","CHATEAUDEAUZONE4",0,"male","Diola","Diola","Agriculteur",35000,"Loss","No","Yes","Shared","Inside tap",3
+"131","CHATEAUDEAUZONE4",0,"female","Diola","Diola","Other",100000,"Loss","Yes","Yes","Private","Inside tap",3
+"132","CHATEAUDEAUZONE4",0,"female","Diola","Diola","Other",100000,"Loss","Yes","Yes","Private","Inside tap",3
+"133","CHATEAUDEAUZONE4",1,"female","Diola","Diola","Other",100000,"Loss","Yes","Yes","Private","Inside tap",1
+"135","CHATEAUDEAUZONE4",0,"female","Peulh","Not Diola","Sans activite",45000,"Break even","No","Yes","Private","Inside tap",3
+"136","CHATEAUDEAUZONE4",0,"female","Peulh","Not Diola","Sans activite",45000,"Break even","No","Yes","Private","Inside tap",3
+"137","CHATEAUDEAUZONE4",0,"female","Diola","Diola","Agriculteur",120000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"138","CHATEAUDEAUZONE4",0,"male","Diola","Diola","Other",24000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"139","CHATEAUDEAUZONE4",0,"female","Diola","Diola","Other",24000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"140","DIARONE",0,"male","Diola","Diola","Sans activite",15000,"Loss","Yes","Yes","Shared","Inside well",3
+"141","DIARONE",0,"female","Diola","Diola","Sans activite",15000,"Loss","Yes","Yes","Shared","Inside well",3
+"144","DIARONE",0,"male","Diola","Diola","Other",50000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"145","DIARONE",0,"female","Diola","Diola","Other",50000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"146","DIARONE",0,"male","Diola","Diola","Agriculteur",15000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"150","DIARONE",0,"male","Mandingue","Not Diola","Agriculteur",50000,"Loss","No","Yes","Private","Inside well",3
+"151","DIARONE",0,"male","Diola","Diola","Agriculteur",45000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"155","DIARONE",0,"male","Diola","Diola","Other",50000,"Loss","Yes","Yes","Private","Inside well",3
+"159","KOUTENGHOR",0,"female","Diola","Diola","Sans activite",15000,"Saving","No","Yes","Private","Inside well",3
+"161","SOUTOU",0,"male","Diola","Diola","Agriculteur",7500,"Break even","Yes","Yes","Private","Outside coevered well with pump",3
+"162","SOUTOU",0,"female","Diola","Diola","Agriculteur",7500,"Break even","Yes","Yes","Private","Outside coevered well with pump",3
+"163","SOUTOU",0,"male","Diola","Diola","Agriculteur",50000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"164","SOUTOU",0,"female","Diola","Diola","Agriculteur",50000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"165","SOUTOU",0,"male","Diola","Diola","Agriculteur",25000,"Saving","Yes","Yes","Private","Outside coevered well with pump",3
+"166","SOUTOU",0,"female","Diola","Diola","Agriculteur",25000,"Saving","Yes","Yes","Private","Outside coevered well with pump",3
+"168","SOUTOU",0,"female","Diola","Diola","Agriculteur",19600,"Saving","Yes","No",NA,"Inside well",3
+"169","SOUTOU",0,"male","Diola","Diola","Agriculteur",19600,"Saving","Yes","No",NA,"Inside well",3
+"170","SOUTOU",0,"female","Diola","Diola","Agriculteur",5000,"Loss","Yes","Yes","Private","Inside well",3
+"171","SOUTOU",0,"male","Diola","Diola","Agriculteur",100000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"172","SOUTOU",0,"female","Diola","Diola","Agriculteur",100000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"173","SOUTOU",0,"male","Diola","Diola","Agriculteur",210000,"Saving","Yes","Yes","Private","Inside well",3
+"174","TENGHORY1ZONE1",0,"female","Diola","Diola","Sans activite",25000,"Saving","Yes","Yes","Private","Uncovered outside well",3
+"175","TENGHORY1ZONE1",0,"female","Diola","Diola","Agriculteur",200000,"Saving","Yes","Yes","Private","Inside tap",3
+"176","TENGHORY1ZONE1",0,"male","Peulh","Not Diola","Other",100000,"Saving","No","Yes","Private","Uncovered outside well",3
+"177","TENGHORY1ZONE1",0,"male","Mandingue","Not Diola","Other",40000,"Loss","No","Yes","Private","Inside tap",3
+"179","TENGHORY1ZONE1",0,"female","Diola","Diola","Other",45000,"Loss","Yes","Yes","Shared","Inside tap",3
+"181","TENGHORY5ZONE2",0,"male","Diola","Diola","Other",22500,"Break even","Yes","Yes","Shared","Inside tap",3
+"182","TENGHORY5ZONE2",0,"male","Diola","Diola","Other",50000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"183","TENGHORY5ZONE2",0,"female","Other","Not Diola","Other",155000,"Saving","Yes","Yes","Private","Outside coevered well with pump",3
+"184","TENGHORY5ZONE2",0,"male","Mandingue","Not Diola","Other",90000,"Saving","Yes","Yes","Private","Inside well",3
+"185","TENGHORY5ZONE2",0,"female","Mandingue","Not Diola","Other",90000,"Saving","Yes","Yes","Private","Inside well",3
+"186","TENGHORY5ZONE2",0,"male","Diola","Diola","Other",220000,"Saving","Yes","Yes","Shared","Inside tap",3
+"187","TENGHORY5ZONE2",0,"female","Diola","Diola","Other",220000,"Saving","Yes","Yes","Shared","Inside tap",3
+"188","TENGHORY5ZONE2",0,"female","Diola","Diola","Other",220000,"Saving","Yes","Yes","Shared","Inside tap",3
+"189","TENGHORY5ZONE2",0,"female","Diola","Diola","Sans activite",15000,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"190","TENGHORY5ZONE2",0,"female","Diola","Diola","Sans activite",15000,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"191","MANDOUARD2",0,"male","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"192","MANDOUARD2",0,"female","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"193","MANDOUARD2",0,"female","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"194","MANDOUARD2",0,"female","Diola","Diola","Other",25000,"Saving","No","Yes","Private","Inside well",3
+"196","MANDOUARD2",0,"male","Diola","Diola","Agriculteur",32000,"Saving","Yes","Yes","Shared","Outside coevered well with pump",3
+"197","MANDOUARD2",0,"male","Diola","Diola","Agriculteur",20000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"199","TOGHO",0,"male","Diola","Diola","Other",35100,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"200","TOGHO",0,"male","Diola","Diola","Agriculteur",30000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"201","TOGHO",0,"male","Diola","Diola","Agriculteur",30000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"204","TOGHO",0,"male","Diola","Diola","Agriculteur",25000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"205","TOGHO",1,"female","Diola","Diola","Agriculteur",100000,"Saving","No","Yes","Shared","Inside well",1
+"211","OUONCKZONE2",0,"female","Mandingue","Not Diola","Other",2000,"Loss","No","Yes","Private","Uncovered outside well",3
+"213","OUONCKZONE2",0,"male","Diola","Diola","Agriculteur",72500,"Saving","No","Yes","Private","Uncovered outside well",3
+"214","OUONCKZONE2",0,"female","Diola","Diola","Agriculteur",72500,"Saving","No","Yes","Private","Uncovered outside well",3
+"216","OUONCKZONE2",0,"male","Diola","Diola","Agriculteur",30000,"Saving","No","Yes","Private","Uncovered outside well",3
+"217","OUONCKZONE2",0,"female","Mandingue","Not Diola","Other",7000,"Loss","Yes","Yes","Shared","Inside well",3
+"218","OUONCKZONE2",0,"male","Mandingue","Not Diola","Agriculteur",35000,"Saving","No","Yes","Shared","Inside tap",3
+"219","OUONCKZONE2",0,"male","Peulh","Not Diola","Other",200000,"Loss","No","Yes","Private","Inside tap",3
+"222","COUBALANGZONE2",0,"female","Diola","Diola","Other",30000,"Saving","Yes","Yes","Private","Inside well",3
+"223","COUBALANGZONE2",0,"male","Diola","Diola","Agriculteur",12000,"Break even","No","Yes","Private","Uncovered outside well",3
+"224","COUBALANGZONE2",0,"female","Diola","Diola","Agriculteur",12000,"Break even","No","Yes","Private","Uncovered outside well",3
+"225","COUBALANGZONE2",0,"female","Diola","Diola","Agriculteur",50000,"Loss","No","Yes","Private","Inside well",3
+"226","COUBANAOZONE4",0,"female","Other","Not Diola","Other",23000,"Saving","Yes","Yes","Private","Inside tap",3
+"227","COUBANAOZONE4",0,"female","Diola","Diola","Agriculteur",7500,"Break even","No","Yes","Private","Inside tap",3
+"228","COUBANAOZONE4",1,"female","Diola","Diola","Other",20000,"Loss","No","Yes","Private","Inside tap",1
+"229","COUBANAOZONE4",1,"female","Diola","Diola","Other",20000,"Loss","No","Yes","Private","Inside tap",1
+"231","COUBANAOZONE4",0,"male","Peulh","Not Diola","Other",12900,"Break even","No","Yes","Private","Inside tap",3
+"232","COUBANAOZONE4",0,"female","Peulh","Not Diola","Other",12900,"Break even","No","Yes","Private","Inside tap",3
+"233","COUBANAOZONE4",0,"male","Diola","Diola","Agriculteur",50000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"234","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",115000,"Saving","Yes","Yes","Private","Inside tap",3
+"235","FINTHIOCKZONE2",0,"male","Diola","Diola","Agriculteur",2500,"Loss","No","Yes","Private","Uncovered outside well",3
+"236","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",2500,"Loss","No","Yes","Private","Uncovered outside well",3
+"237","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",2500,"Loss","No","Yes","Private","Uncovered outside well",3
+"239","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",18000,"Break even","Yes","Yes","Private","Inside tap",3
+"241","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",40000,"Saving","No","Yes","Private","Uncovered outside well",3
+"242","FINTHIOCKZONE2",0,"male","Diola","Diola","Agriculteur",150000,"Loss","No","Yes","Private","Inside tap",3
+"244","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",150000,"Loss","No","Yes","Private","Inside tap",3
+"245","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Private","Uncovered outside well",3
+"247","FINTHIOCKZONE2",0,"male","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Shared","Inside tap",3
+"248","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",49500,"Saving","Yes","Yes","Private","Inside tap",3
+"249","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",49500,"Saving","Yes","Yes","Private","Inside tap",3
+"250","FINTHIOCKZONE2",0,"male","Diola","Diola","Agriculteur",30000,"Break even","No","Yes","Private","Uncovered outside well",3
+"251","FINTHIOCKZONE2",0,"female","Diola","Diola","Agriculteur",30000,"Break even","No","Yes","Private","Uncovered outside well",3
+"253","TABI",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Private","Uncovered outside well",3
+"255","TABI",0,"female","Other","Not Diola","Agriculteur",20000,"Saving","Yes","Yes","Private","Inside well",3
+"257","TABI",0,"male","Diola","Diola","Sans activite",100000,"Saving","Yes","No",NA,"Uncovered outside well",3
+"258","TABI",0,"female","Diola","Diola","Sans activite",100000,"Saving","Yes","No",NA,"Uncovered outside well",3
+"259","TABI",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Private","Uncovered outside well",3
+"260","TABI",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Private","Uncovered outside well",3
+"261","TABI",0,"male","Diola","Diola","Other",52500,"Saving","No","Yes","Private","Uncovered outside well",3
+"262","TABI",0,"female","Diola","Diola","Other",52500,"Saving","No","Yes","Private","Uncovered outside well",3
+"264","TABI",0,"male","Diola","Diola","Agriculteur",9000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"265","NIAMONEZONE1",0,"female","Other","Not Diola","Other",60000,"Saving","Yes","Yes","Private","Outside tap",3
+"267","NIAMONEZONE1",1,"male","Other","Not Diola","Agriculteur",NA,NA,"No","Yes","Private","Uncovered outside well",1
+"268","NIAMONEZONE1",0,"male","Other","Not Diola","Agriculteur",NA,NA,"No","Yes","Private","Uncovered outside well",3
+"270","NIAMONEZONE1",1,"male","Other","Not Diola","Agriculteur",100000,"Saving","No","Yes","Shared","Uncovered outside well",1
+"273","NIAMONEZONE1",0,"female","Other","Not Diola","Other",50000,"Saving","No","Yes","Shared","Outside tap",3
+"274","NIAMONEZONE1",0,"male","Other","Not Diola","Agriculteur",50000,"Saving","No","Yes","Private","Uncovered outside well",3
+"275","THIONCKESSYL1ZONE1",0,"male","Diola","Diola","Agriculteur",NA,NA,"No","Yes","Shared","Uncovered outside well",3
+"276","THIONCKESSYL1ZONE1",0,"male","Diola","Diola","Other",130000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"277","THIONCKESSYL1ZONE1",0,"female","Diola","Diola","Other",75000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"279","THIONCKESSYL1ZONE1",0,"male","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Private","Uncovered outside well",3
+"280","THIONCKESSYL1ZONE1",0,"female","Diola","Diola","Agriculteur",50000,"Saving","No","Yes","Private","Uncovered outside well",3
+"281","THIONCKESSYL1ZONE1",0,"male","Diola","Diola","Agriculteur",45000,"Saving","Yes","Yes","Private","Inside tap",3
+"282","THIONCKESSYL4ZONE3",0,"male","Diola","Diola","Other",NA,NA,"No","Yes","Private","Uncovered outside well",3
+"283","THIONCKESSYL4ZONE3",0,"female","Diola","Diola","Other",75000,"Saving","Yes","Yes","Shared","Outside coevered well with pump",3
+"284","THIONCKESSYL4ZONE3",0,"female","Diola","Diola","Agriculteur",30000,"Break even","No","Yes","Shared","Inside well",3
+"285","THIONCKESSYL4ZONE3",0,"male","Diola","Diola","Agriculteur",25000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"286","THIONCKESSYL4ZONE3",0,"female","Diola","Diola","Agriculteur",100000,"Saving","No","Yes","Private","Uncovered outside well",3
+"287","THIONCKESSYL4ZONE3",0,"female","Diola","Diola","Agriculteur",100000,"Saving","No","Yes","Private","Uncovered outside well",3
+"288","THIONCKESSYL4ZONE3",0,"male","Diola","Diola","Other",15000,"Break even","No","Yes","Shared","Inside well",3
+"291","ELANA",0,"male","Diola","Diola","Agriculteur",22000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"292","ELANA",0,"male","Diola","Diola","Agriculteur",22000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"293","ELANA",0,"female","Diola","Diola","Other",50000,"Saving","Yes","Yes","Private","Inside well",3
+"294","TENDOUCKZONE2",0,"male","Diola","Diola","Agriculteur",25000,"Loss","No","Yes","Private","Uncovered outside well",3
+"296","TENDOUCKZONE2",0,"female","Diola","Diola","Agriculteur",35000,"Saving","Yes","Yes","Private","Inside well",3
+"297","TENDOUCKZONE2",0,"male","Diola","Diola","Agriculteur",35000,"Saving","Yes","Yes","Private","Inside well",3
+"298","TENDOUCKZONE2",0,"female","Diola","Diola","Other",35000,"Loss","Yes","Yes","Private","Outside tap",3
+"300","TENDOUCKZONE2",0,"female","Diola","Diola","Agriculteur",NA,NA,"No","Yes","Shared","Outside tap",3
+"301","TENDOUCKZONE2",0,"male","Diola","Diola","Agriculteur",100000,"Loss","No","Yes","Shared","Inside tap",3
+"302","TENDOUCKZONE2",0,"female","Diola","Diola","Agriculteur",100000,"Loss","No","Yes","Shared","Inside tap",3
+"303","TENDOUCKZONE2",0,"female","Diola","Diola","Agriculteur",100000,"Loss","No","Yes","Shared","Inside tap",3
+"304","TENDOUCKZONE2",0,"male","Peulh","Not Diola","Other",60000,"Saving","No","Yes","Private","Inside well",3
+"305","TENDOUCKZONE2",0,"female","Peulh","Not Diola","Other",60000,"Saving","No","Yes","Private","Inside well",3
+"306","TENDOUCKZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Shared","Uncovered outside well",3
+"307","BALINGORZONE2",0,"male","Diola","Diola","Agriculteur",100000,"Saving","Yes","Yes","Private","Inside well",3
+"308","BALINGORZONE2",0,"female","Diola","Diola","Agriculteur",30000,"Saving","No","Yes","Private","Inside tap",3
+"310","BALINGORZONE2",0,"female","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Shared","Uncovered outside well",3
+"311","BALINGORZONE2",0,"male","Diola","Diola","Agriculteur",35000,"Saving","No","Yes","Private","Uncovered outside well",3
+"312","BALINGORZONE2",0,"male","Diola","Diola","Other",60000,"Saving","No","Yes","Private","Inside tap",3
+"314","BALINGORZONE2",0,"female","Diola","Diola","Other",60000,"Saving","No","Yes","Private","Inside tap",3
+"316","BALINGORZONE2",0,"female","Diola","Diola","Agriculteur",NA,NA,"No","Yes","Private","Uncovered outside well",3
+"318","KARTIACKZONE2",0,"female","Diola","Diola","Agriculteur",75000,"Saving","Yes","Yes","Shared","Inside well",3
+"319","KARTIACKZONE2",0,"female","Diola","Diola","Agriculteur",200000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"320","KARTIACKZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"No","Yes","Private","Uncovered outside well",3
+"321","KARTIACKZONE2",0,"female","Diola","Diola","Agriculteur",NA,NA,"No","Yes","Private","Uncovered outside well",3
+"322","KARTIACKZONE2",0,"female","Diola","Diola","Sans activite",50000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"325","KARTIACKZONE2",0,"male","Diola","Diola","Agriculteur",50000,"Loss","Yes","Yes","Shared","Uncovered outside well",3
+"327","KARTIACKZONE2",0,"female","Diola","Diola","Agriculteur",25000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"328","DIANKIZONE2",0,"female","Diola","Diola","Agriculteur",0,NA,"No","Yes","Shared","Uncovered outside well",3
+"330","DIANKIZONE2",0,"female","Diola","Diola","Other",125000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"331","DIANKIZONE2",0,"male","Diola","Diola","Agriculteur",60000,"Saving","Yes","Yes","Private","Uncovered outside well",3
+"332","DIANKIZONE2",0,"male","Diola","Diola","Other",145000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"333","DIANKIZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"Yes","No",NA,"Uncovered outside well",3
+"335","DIANKIZONE2",0,"male","Diola","Diola","Agriculteur",20000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"336","DIANKIZONE2",0,"male","Diola","Diola","Agriculteur",65000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"337","DIEGOUNEZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Private","Inside well",3
+"339","DIEGOUNEZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Shared","Uncovered outside well",3
+"340","DIEGOUNEZONE2",0,"female","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Shared","Uncovered outside well",3
+"341","DIEGOUNEZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"No","Yes","Shared","Inside well",3
+"343","DIEGOUNEZONE2",0,"female","Diola","Diola","Agriculteur",15000,"Saving","No","Yes","Private","Inside well",3
+"344","DIEGOUNEZONE2",0,"male","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Private","Uncovered outside well",3
+"345","DIEGOUNEZONE2",0,"female","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Private","Uncovered outside well",3
+"346","DIEGOUNEZONE2",0,"male","Diola","Diola","Agriculteur",200000,"Saving","Yes","Yes","Private","Uncovered outside well",3
+"347","DIEGOUNEZONE2",0,"female","Diola","Diola","Agriculteur",200000,"Saving","Yes","Yes","Private","Uncovered outside well",3
+"349","DIEGOUNEZONE2",0,"female","Diola","Diola","Agriculteur",50000,"Saving","Yes","Yes","Private","Inside tap",3
+"350","DIEGOUNEZONE2",0,"male","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Private","Uncovered outside well",3
+"355","KAGNOBONZONE1",0,"female","Diola","Diola","Agriculteur",100000,"Saving","No","Yes","Private","Uncovered outside well",3
+"356","KAGNOBONZONE1",0,"female","Diola","Diola","Agriculteur",100000,"Saving","No","Yes","Private","Uncovered outside well",3
+"357","KAGNOBONZONE1",0,"male","Diola","Diola","Sans activite",40000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"358","KAGNOBONZONE1",0,"female","Diola","Diola","Sans activite",40000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"360","KAGNOBONZONE1",0,"male","Diola","Diola","Agriculteur",30000,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"361","KAGNOBONZONE1",0,"male","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Private","Uncovered outside well",3
+"362","KAGNOBONZONE1",0,"female","Diola","Diola","Agriculteur",NA,NA,"Yes","Yes","Private","Uncovered outside well",3
+"365","MONGONE",0,"male","Diola","Diola","Agriculteur",66000,"Saving","No","Yes","Private","Inside well",3
+"368","MONGONE",0,"female","Diola","Diola","Agriculteur",15000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"369","MONGONE",0,"female","Diola","Diola","Agriculteur",15000,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"370","MONGONE",0,"female","Diola","Diola","Sans activite",102000,"Saving","No","Yes","Private","Inside well",3
+"373","MONGONE",1,"female","Diola","Diola","Agriculteur",30000,"Break even","No","Yes","Shared","Inside well",1
+"374","MONGONE",0,"male","Peulh","Not Diola","Other",30000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"375","KABILINEZONE3",0,"male","Diola","Diola","Agriculteur",94500,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"378","KABILINEZONE3",0,"male","Diola","Diola","Agriculteur",122250,"Break even","No","Yes","Shared","Inside well",3
+"379","KABILINEZONE3",0,"female","Diola","Diola","Agriculteur",122250,"Break even","No","Yes","Shared","Inside well",3
+"380","KABILINEZONE3",0,"male","Diola","Diola","Agriculteur",66000,"Break even","No","No",NA,"Uncovered outside well",3
+"381","KACARE",0,"female","Diola","Diola","Agriculteur",116450,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"383","KACARE",0,"female","Diola","Diola","Agriculteur",259500,"Saving","No","Yes","Private","Uncovered outside well",3
+"384","KACARE",0,"male","Diola","Diola","Agriculteur",15000,"Break even","No","Yes","Shared","Inside well",3
+"385","KACARE",0,"female","Diola","Diola","Agriculteur",15000,"Break even","No","Yes","Shared","Inside well",3
+"386","KACARE",0,"male","Diola","Diola","Agriculteur",117000,"Break even","No","Yes","Private","Inside well",3
+"387","KACARE",0,"female","Diola","Diola","Agriculteur",117000,"Break even","No","Yes","Private","Inside well",3
+"388","KACARE",0,"male","Diola","Diola","Agriculteur",37500,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"389","KACARE",0,"female","Diola","Diola","Agriculteur",37500,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"390","KACARE",0,"female","Diola","Diola","Agriculteur",37500,"Break even","Yes","Yes","Shared","Uncovered outside well",3
+"391","KACARE",0,"female","Diola","Diola","Agriculteur",97500,"Saving","No","Yes","Private","Uncovered outside well",3
+"393","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",90000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"394","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",381000,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"396","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",15000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"397","EBINKINEZONE2",0,"male","Diola","Diola","Agriculteur",15000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"398","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",15000,"Saving","No","Yes","Shared","Uncovered outside well",3
+"399","EBINKINEZONE2",0,"male","Diola","Diola","Agriculteur",84000,"Break even","Yes","No",NA,"Inside tap",3
+"401","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",84000,"Break even","Yes","No",NA,"Inside tap",3
+"402","EBINKINEZONE2",0,"male","Diola","Diola","Agriculteur",84000,"Saving","No","Yes","Private","Inside well",3
+"403","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",84000,"Saving","No","Yes","Private","Inside well",3
+"404","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",84000,"Saving","No","Yes","Private","Inside well",3
+"405","EBINKINEZONE2",0,"female","Diola","Diola","Agriculteur",30000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"407","DIANNAHZONE3",0,"male","Other","Not Diola","Other",124300,"Loss","No","Yes","Shared","Inside well",3
+"408","DIANNAHZONE3",0,"male","Other","Not Diola","Other",124300,"Loss","No","Yes","Shared","Inside well",3
+"409","DIANNAHZONE3",0,"male","Other","Not Diola","Agriculteur",150000,"Break even","No","Yes","Shared","Inside well",3
+"412","DIANNAHZONE3",0,"female","Diola","Diola","Agriculteur",60000,"Break even","No","Yes","Shared","Inside well",3
+"413","DIANNAHZONE3",0,"female","Other","Not Diola","Other",45000,"Saving","Yes","No",NA,"Inside well",3
+"414","DIANNAHZONE3",0,"female","Mandingue","Not Diola","Other",37500,"Break even","No","Yes","Private","Uncovered outside well",3
+"415","ABENEZONE4",0,"female","Mandingue","Not Diola","Agriculteur",30000,"Break even","No","Yes","Shared","Inside well",3
+"416","ABENEZONE4",0,"male","Mandingue","Not Diola","Agriculteur",15000,"Loss","Yes","Yes","Shared","Inside tap",3
+"417","ABENEZONE4",0,"male","Mandingue","Not Diola","Agriculteur",15000,"Loss","Yes","Yes","Shared","Inside tap",3
+"418","ABENEZONE4",0,"male","Mandingue","Not Diola","Other",100000,"Saving","No","Yes","Shared","Inside tap",3
+"419","ABENEZONE4",0,"female","Mandingue","Not Diola","Other",60000,"Break even","No","Yes","Private","Inside tap",3
+"420","ABENEZONE4",0,"male","Other","Not Diola","Other",240000,"Break even","Yes","Yes","Shared","Inside tap",3
+"423","ABENEZONE4",0,"female","Other","Not Diola","Other",240000,"Break even","Yes","Yes","Shared","Inside tap",3
+"424","KAFOUNTINEZONE2",0,"female","Mandingue","Not Diola","Agriculteur",106500,"Break even","No","Yes","Private","Inside well",3
+"425","KAFOUNTINEZONE2",0,"male","Other","Not Diola","Agriculteur",60000,"Break even","No","Yes","Private","Inside well",3
+"426","KAFOUNTINEZONE2",0,"male","Mandingue","Not Diola","Agriculteur",450000,"Saving","No","Yes","Shared","Inside well",3
+"427","KAFOUNTINEZONE2",0,"female","Mandingue","Not Diola","Agriculteur",450000,"Saving","No","Yes","Shared","Inside well",3
+"428","KAFOUNTINEZONE2",0,"female","Diola","Diola","Other",67500,"Break even","Yes","Yes","Private","Inside well",3
+"429","KAFOUNTINEZONE2",0,"male","Diola","Diola","Other",NA,NA,"Yes","Yes","Private","Inside well",3
+"430","KAFOUNTINEZONE2",0,"female","Diola","Diola","Other",NA,NA,"Yes","Yes","Private","Inside well",3
+"431","KAFOUNTINEZONE2",0,"male","Diola","Diola","Other",63500,"Saving","Yes","Yes","Private","Inside well",3
+"432","KAFOUNTINEZONE2",0,"female","Diola","Diola","Other",63500,"Saving","Yes","Yes","Private","Inside well",3
+"434","KAFOUNTINEZONE6",0,"male","Other","Not Diola","Other",60000,"Break even","No","Yes","Private","Uncovered outside well",3
+"435","KAFOUNTINEZONE6",0,"male","Other","Not Diola","Other",60000,"Break even","Yes","Yes","Shared","Inside well",3
+"436","KAFOUNTINEZONE6",0,"male","Diola","Diola","Other",80000,"Saving","Yes","Yes","Private","Outside tap",3
+"437","KAFOUNTINEZONE6",0,"female","Diola","Diola","Other",80000,"Saving","Yes","Yes","Private","Outside tap",3
+"438","KAFOUNTINEZONE6",0,"male","Diola","Diola","Other",90000,"Saving","Yes","Yes","Shared","Inside well",3
+"439","KAFOUNTINEZONE6",0,"female","Diola","Diola","Other",90000,"Saving","Yes","Yes","Shared","Inside well",3
+"441","NIOMOUNEZONE2",0,"male","Diola","Diola","Agriculteur",15000,"Loss","Yes","No",NA,"Other",3
+"442","NIOMOUNEZONE2",0,"male","Diola","Diola","Agriculteur",350,"Loss","No","No",NA,"Other",3
+"443","NIOMOUNEZONE2",0,"female","Diola","Diola","Agriculteur",350,"Loss","No","No",NA,"Other",3
+"444","NIOMOUNEZONE2",0,"female","Diola","Diola","Agriculteur",30500,"Loss",NA,"No",NA,"Other",3
+"445","NIOMOUNEZONE2",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Shared","Other",3
+"446","NIOMOUNEZONE2",0,"male","Diola","Diola","Agriculteur",30000,"Saving","No","No",NA,"Other",3
+"447","NIOMOUNEZONE2",0,"female","Diola","Diola","Agriculteur",30000,"Break even","Yes","No",NA,"Other",3
+"449","NIOMOUNEZONE2",0,"female","Diola","Diola","Agriculteur",15000,"Break even","No","Yes","Shared","Other",3
+"450","NIOMOUNEZONE2",1,"female","Diola","Diola","Other",15000,"Saving","No","No",NA,"Other",1
+"451","DIOGUE",1,"female","Diola","Diola","Agriculteur",65000,"Loss","Yes","No",NA,"Uncovered outside well",1
+"452","DIOGUE",0,"male","Diola","Diola","Agriculteur",95000,"Saving","Yes","No",NA,"Uncovered outside well",3
+"454","DIOGUE",0,"female","Diola","Diola","Other",60000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"455","DIOGUE",0,"female","Other","Not Diola","Other",6000,"Loss","No",NA,NA,"Uncovered outside well",3
+"456","DIOGUE",0,"male","Other","Not Diola","Other",6000,"Loss","No",NA,NA,"Uncovered outside well",3
+"457","HITOU",0,"male","Diola","Diola","Agriculteur",50000,"Loss","No","No",NA,"Uncovered outside well",3
+"459","HITOU",0,"female","Diola","Diola","Agriculteur",5000,"Loss","No","No",NA,"Uncovered outside well",3
+"462","HITOU",1,"female","Diola","Diola","Agriculteur",9000,"Break even","No","No",NA,NA,1
+"463","HITOU",0,"male","Diola","Diola","Agriculteur",38000,"Saving","No","No",NA,"Other",3
+"464","BADIONCOTO",0,"male","Diola","Diola","Agriculteur",151000,"Loss","Yes","Yes","Private","Inside well",3
+"465","BADIONCOTO",0,"female","Diola","Diola","Agriculteur",30000,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"469","BADIONCOTO",0,"male","Diola","Diola","Agriculteur",6000,"Loss","No","No",NA,"Uncovered outside well",3
+"470","BADIONCOTO",0,"female","Diola","Diola","Other",45000,"Break even","Yes","Yes","Shared","Inside well",3
+"471","BADIONCOTO",0,"male","Diola","Diola","Agriculteur",35000,"Loss","No","No",NA,"Uncovered outside well",3
+"473","BADIONCOTO",0,"male","Diola","Diola","Agriculteur",35000,"Loss","No","No",NA,"Uncovered outside well",3
+"474","BADIONCOTO",0,"female","Diola","Diola","Agriculteur",45000,"Break even","No","No",NA,"Inside well",3
+"475","BADIONCOTO",0,"male","Diola","Diola","Agriculteur",45000,"Break even","No","No",NA,"Inside well",3
+"476","DARSSALAMCHERIFZONE2",0,"female","Mandingue","Not Diola","Other",174000,"Break even","No","Yes","Private","Inside well",3
+"477","DARSSALAMCHERIFZONE2",0,"female","Mandingue","Not Diola","Other",174000,"Break even","No","Yes","Private","Inside well",3
+"478","DARSSALAMCHERIFZONE2",0,"female","Mandingue","Not Diola","Other",174000,"Break even","No","Yes","Private","Inside well",3
+"479","DARSSALAMCHERIFZONE2",0,"female","Mandingue","Not Diola","Other",181750,"Saving","Yes","Yes","Private","Inside well",3
+"480","DARSSALAMCHERIFZONE2",0,"male","Diola","Diola","Agriculteur",69000,"Break even","Yes","Yes","Private","Inside well",3
+"481","DARSSALAMCHERIFZONE2",0,"female","Other","Not Diola","Agriculteur",52500,"Break even","No","Yes","Shared","Uncovered outside well",3
+"482","KATABA2",0,"female","Diola","Diola","Other",153000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"483","KATABA2",0,"male","Diola","Diola","Agriculteur",138000,"Break even","No","Yes","Private","Inside well",3
+"486","KATABA2",0,"male","Diola","Diola","Agriculteur",25000,"Loss","No","No",NA,"Inside tap",3
+"488","KATABA2",0,"female","Diola","Diola","Agriculteur",10000,"Loss","No","Yes","Shared","Uncovered outside well",3
+"489","KATABA2",1,"female","Diola","Diola","Agriculteur",10000,"Loss","No","Yes","Shared","Uncovered outside well",1
+"491","KATABA2",0,"female","Diola","Diola","Agriculteur",105000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"492","KATABA2",0,"female","Diola","Diola","Agriculteur",105000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"493","KATABA2",0,"male","Diola","Diola","Agriculteur",105000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"494","KATABA2",0,"female","Diola","Diola","Other",78000,"Saving","Yes","Yes","Private","Inside well",3
+"495","KATABA2",0,"male","Diola","Diola","Agriculteur",39000,"Saving","No","Yes","Private","Inside well",3
+"496","KATABA2",0,"female","Diola","Diola","Agriculteur",39000,"Saving","No","Yes","Private","Inside well",3
+"497","KATABA2",0,"female","Diola","Diola","Agriculteur",30000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"498","KATABA2",0,"male","Diola","Diola","Agriculteur",30000,"Break even","Yes","No",NA,"Uncovered outside well",3
+"499","KATABA2",0,"male","Peulh","Not Diola","Other",15000,"Break even","No","No",NA,"Inside well",3
+"502","MACOUDA",0,"male","Diola","Diola","Agriculteur",75000,"Break even","No","Yes","Shared","Inside well",3
+"503","MACOUDA",0,"female","Diola","Diola","Agriculteur",75000,"Break even","No","Yes","Shared","Inside well",3
+"504","MACOUDA",0,"male","Diola","Diola","Agriculteur",85500,"Saving","Yes","Yes","Private","Inside well",3
+"505","MACOUDA",0,"male","Diola","Diola","Agriculteur",90000,"Break even","No","Yes","Private","Inside well",3
+"506","MACOUDA",0,"female","Diola","Diola","Agriculteur",90000,"Break even","No","Yes","Private","Inside well",3
+"507","MACOUDA",0,"female","Diola","Diola","Agriculteur",90000,"Break even","No","Yes","Private","Inside well",3
+"508","MACOUDA",0,"female","Diola","Diola","Other",50000,"Saving","Yes","No",NA,"Inside well",3
+"509","SELETYZONE1",0,"female","Other","Not Diola","Other",90000,"Break even","Yes","Yes","Private","Uncovered outside well",3
+"510","SELETYZONE1",0,"male","Other","Not Diola","Agriculteur",150000,"Break even","No","Yes","Private","Inside well",3
+"511","SELETYZONE1",0,"female","Other","Not Diola","Agriculteur",150000,"Break even","No","Yes","Private","Inside well",3
+"512","SELETYZONE1",0,"male","Other","Not Diola","Agriculteur",150000,"Break even","No","Yes","Private","Inside well",3
+"513","SELETYZONE1",0,"male","Diola","Diola","Agriculteur",45000,"Break even","No","Yes","Private","Uncovered outside well",3
+"514","SELETYZONE1",0,"female","Diola","Diola","Agriculteur",45000,"Break even","No","Yes","Private","Uncovered outside well",3
+"515","SELETYZONE1",0,"female","Other","Not Diola","Other",30000,"Break even","No","Yes","Shared","Inside tap",3
+"516","SELETYZONE1",0,"male","Diola","Diola","Agriculteur",2500,"Loss","Yes","Yes","Shared","Inside well",3
+"517","SELETYZONE1",0,"female","Diola","Diola","Agriculteur",2500,"Loss","Yes","Yes","Shared","Inside well",3
+"518","SELETYZONE1",0,"male","Other","Not Diola","Agriculteur",22500,"Break even","No","Yes","Shared","Uncovered outside well",3
+"519","BASSENEMANDOUARD",0,"female","Diola","Diola","Agriculteur",2500,"Loss","No","No",NA,"Outside coevered well with pump",3
+"520","BASSENEMANDOUARD",1,"male","Diola","Diola","Agriculteur",10000,"Loss","No","No",NA,"Outside coevered well with pump",1
+"521","BASSENEMANDOUARD",0,"male","Diola","Diola","Agriculteur",24000,"Loss","No","No",NA,"Outside coevered well with pump",3
+"523","BASSENEMANDOUARD",0,"male","Diola","Diola","Agriculteur",10000,"Saving","No","Yes","Shared","Outside coevered well with pump",3
+"524","DIANGO",0,"male","Diola","Diola","Agriculteur",700,"Loss","Yes","Yes","Private","Inside well",3
+"525","DIANGO",0,"male","Diola","Diola","Agriculteur",30000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"526","DIANGO",0,"female","Diola","Diola","Agriculteur",30000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"527","DIANGO",0,"male","Diola","Diola","Agriculteur",30000,"Saving","Yes","Yes","Shared","Uncovered outside well",3
+"529","DIANGO",0,"female","Diola","Diola","Agriculteur",69600,"Break even","No","Yes","Shared","Uncovered outside well",3
+"530","DIANGO",0,"female","Diola","Diola","Agriculteur",69600,"Break even","No","Yes","Shared","Uncovered outside well",3
+"532","DIANGO",0,"male","Diola","Diola","Agriculteur",75000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"533","DIANGO",0,"female","Diola","Diola","Other",90000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"535","DIANGO",0,"female","Diola","Diola","Agriculteur",5700,"Loss","No","Yes","Shared","Uncovered outside well",3
+"536","DIANGO",0,"female","Peulh","Not Diola","Agriculteur",60000,"Break even","No","Yes","Shared","Uncovered outside well",3
+"538","GRANDKOULAYE",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Private","Uncovered outside well",3
+"539","GRANDKOULAYE",0,"female","Diola","Diola","Agriculteur",20000,"Saving","No","Yes","Private","Uncovered outside well",3
+"540","GRANDKOULAYE",0,"male","Diola","Diola","Agriculteur",35000,"Loss","No","No",NA,"Uncovered outside well",3
+"541","GRANDKOULAYE",0,"female","Diola","Diola","Agriculteur",4500,"Loss","Yes","No",NA,"Uncovered outside well",3
+"545","MARGOUNE",0,"male","Diola","Diola","Agriculteur",68250,"Break even","Yes","No",NA,"Inside well",3
+"548","MARGOUNE",0,"male","Diola","Diola","Agriculteur",10000,"Saving","No","No",NA,"Uncovered outside well",3
+"549","MARGOUNE",1,"female","Diola","Diola","Agriculteur",30000,"Saving","No","Yes","Private","Uncovered outside well",1
+"550","MARGOUNE",0,"male","Diola","Diola","Agriculteur",500000,"Saving","Yes","Yes","Private","Inside well",3
+"552","MARGOUNE",0,"male","Diola","Diola","Agriculteur",28000,"Saving","Yes","Yes","Private","Inside well",3
+"553","MARGOUNE",0,"female","Diola","Diola","Other",22500,"Saving","Yes","Yes","Shared","Inside well",3
+"554","SILINKINEZONE2",0,"female","Diola","Diola","Agriculteur",57600,"Loss","Yes","Yes","Private","Uncovered outside well",3
+"555","SILINKINEZONE2",0,"male","Diola","Diola","Agriculteur",64000,"Saving","No","Yes","Private","Uncovered outside well",3
+"556","SILINKINEZONE2",1,"female","Diola","Diola","Agriculteur",64000,"Saving","No","Yes","Private","Uncovered outside well",1
+"557","SILINKINEZONE2",0,"female","Diola","Diola","Agriculteur",64000,"Saving","No","Yes","Private","Uncovered outside well",3
+"558","SILINKINEZONE2",1,"female","Diola","Diola","Agriculteur",64000,"Saving","No","Yes","Private","Uncovered outside well",1
+"560","SILINKINEZONE2",0,"female","Diola","Diola","Agriculteur",67000,"Saving","Yes","Yes","Private","Inside well",3
+"561","SILINKINEZONE2",0,"male","Diola","Diola","Agriculteur",49500,"Saving","No","Yes","Shared","Uncovered outside well",3
+"563","SILINKINEZONE2",0,"male","Diola","Diola","Agriculteur",84000,"Break even","No","Yes","Shared","Inside well",3
+"564","SILINKINEZONE2",0,"male","Diola","Diola","Agriculteur",84000,"Break even","No","Yes","Shared","Inside well",3
+"569","SILINKINEZONE2",0,"male","Diola","Diola","Agriculteur",20000,"Saving","Yes","Yes","Private","Inside well",3
+"571","SILINKINEZONE2",0,"female","Diola","Diola","Agriculteur",75000,"Loss","No","Yes","Shared","Uncovered outside well",3

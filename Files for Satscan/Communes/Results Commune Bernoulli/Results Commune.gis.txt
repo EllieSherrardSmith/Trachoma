@@ -1,0 +1,4 @@
+SINDIAN                         1                   0.0100              F 
+OULAMPANE                       1                   0.0100              F 
+SUELLE                          1                   0.0100              F 
+ILESKARONE                      2                   0.768               F 

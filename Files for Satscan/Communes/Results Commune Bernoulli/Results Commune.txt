@@ -1,0 +1,169 @@
+                                 _____________________________
+
+                                        SaTScan v9.4.1
+                                 _____________________________
+
+
+Program run on: Mon May 18 12:37:03 2015
+
+Purely Spatial analysis
+scanning for clusters with high rates
+using the Bernoulli model.
+Multivariate scan using 4 data sets.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.................................: 2000/1/1 to 2000/12/31
+Number of locations..........................: 19
+Total population per data set................: 1425, 2744, 571, 571
+Total number of cases per data set...........: 38, 40, 29, 148
+Percent cases in area per data set...........: 2.7, 1.5, 5.1, 25.9
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: SINDIAN, OULAMPANE, SUELLE
+  Coordinates / radius..: (12.962327 N, 16.166864 W) / 12.57 km
+  Population............: 346, 701, 135, 135
+                          Data Set #1
+  Number of cases.......: 13
+  Expected cases........: 9.23
+  Observed / expected...: 1.41
+  Relative risk.........: 1.62
+  Percent cases in area.: 3.8
+                          Data Set #2
+  Number of cases.......: 14
+  Expected cases........: 10.22
+  Observed / expected...: 1.37
+  Relative risk.........: 1.57
+  Percent cases in area.: 2.0
+                          Data Set #3
+  Number of cases.......: 16
+  Expected cases........: 6.86
+  Observed / expected...: 2.33
+  Relative risk.........: 3.97
+  Percent cases in area.: 11.9
+                          Data Set #4
+  Number of cases.......: 40
+  Expected cases........: 34.99
+  Observed / expected...: 1.14
+  Relative risk.........: 1.20
+  Percent cases in area.: 29.6
+  Log likelihood ratio..: 9.552668
+  P-value...............: 0.010
+
+2.Location IDs included.: ILESKARONE
+  Coordinates / radius..: (12.604739 N, 16.692612 W) / 0 km
+  Population............: 47, 80, 23, 23
+                          Data Set #1
+  Number of cases.......: 2
+  Expected cases........: 1.25
+  Observed / expected...: 1.60
+  Relative risk.........: 1.63
+  Percent cases in area.: 4.3
+                          Data Set #2
+  Number of cases.......: 4
+  Expected cases........: 1.17
+  Observed / expected...: 3.43
+  Relative risk.........: 3.70
+  Percent cases in area.: 5.0
+                          Data Set #3
+  Number of cases.......: 3
+  Expected cases........: 1.17
+  Observed / expected...: 2.57
+  Relative risk.........: 2.75
+  Percent cases in area.: 13.0
+  Log likelihood ratio..: 3.599235
+  P-value...............: 0.768
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File (data set 1)    : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CasesTF.cas
+  Control File (data set 1) : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\ControlsTF.ctl
+  Time Precision            : None
+  Start Time                : 2000/1/1
+  End Time                  : 2000/12/31
+  Coordinates File          : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CoordinatesCommunes
+  Coordinates               : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis    : Purely Spatial
+  Probability Model   : Bernoulli
+  Scan for Areas with : High Rates
+
+Output
+------
+  Main Results File       : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.txt
+  Cluster File            : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.col.txt
+  Shapefile               : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.col.shp
+  Cluster File            : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.col.dbf
+  Stratified Cluster File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.sci.txt
+  Stratified Cluster File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.sci.dbf
+  Location File           : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.gis.txt
+  Location File           : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.gis.dbf
+  Risk Estimates File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.rr.txt
+  Risk Estimates File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.rr.dbf
+  Simulated LLRs File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.llr.txt
+  Simulated LLRs File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Results Commune.llr.dbf
+
+Multiple Data Sets
+------------------
+  Case File (data set 2)        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CasesTT.cas
+  Control File (data set 2)     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\controlsTT
+  Case File (data set 3)        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CasesBlind.cas
+  Control File (data set 3)     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\ControlsBlind.ctl
+  Case File (data set 4)        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CasesLowVis.cas
+  Control File (data set 4)     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\ControlsLowVis.ctl
+  Purpose of Multiple Data Sets : Multivariate Analysis
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidian Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Window Shape                 : Circular
+  Isotonic Scan                : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Report Gini Optimized Cluster Collection  : No
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Report Critical Values     : No
+  Report Monte Carlo Rank    : No
+  Print ASCII Column Headers : No
+
+Run Options
+-----------
+  Processer Usage   : All Available Proccessors
+  Suppress Warnings : No
+  Logging Analysis  : Yes
+_______________________________________________________________________________________________
+
+Program completed  : Mon May 18 12:37:04 2015
+Total Running Time : 1 second
+Processor Usage    : 4 processors

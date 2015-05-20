@@ -1,0 +1,137 @@
+                                 _____________________________
+
+                                        SaTScan v9.4.1
+                                 _____________________________
+
+
+Program run on: Tue May 19 16:04:27 2015
+
+Purely Spatial analysis
+scanning for clusters with high rates
+using the Bernoulli model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2000/1/1 to 2000/12/31
+Number of locations................: 19
+Total population...................: 2742
+Total number of cases..............: 38
+Percent cases in area..............: 1.4
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: OULAMPANE
+  Overlap with clusters.: No Overlap
+  Coordinates / radius..: (12.938809 N, 16.076199 W) / 0 km
+  Gini Cluster..........: No
+  Population............: 283
+  Number of cases.......: 8
+  Expected cases........: 3.92
+  Observed / expected...: 2.04
+  Relative risk.........: 2.32
+  Percent cases in area.: 2.8
+  Log likelihood ratio..: 1.912501
+  P-value...............: 0.72
+
+2.Location IDs included.: DIOULOULOU, DJINAKY, KAFOUNTINE
+  Overlap with clusters.: No Overlap
+  Coordinates / radius..: (13.085638 N, 16.585380 W) / 20.80 km
+  Gini Cluster..........: No
+  Population............: 687
+  Number of cases.......: 13
+  Expected cases........: 9.52
+  Observed / expected...: 1.37
+  Relative risk.........: 1.56
+  Percent cases in area.: 1.9
+  Log likelihood ratio..: 0.803602
+  P-value...............: 0.99
+
+NOTE: The sequential Monte Carlo procedure was used to terminate the calculations after 69
+replications.
+
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CasesTF.cas
+  Control File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\controlsTT
+  Time Precision   : None
+  Start Time       : 2000/1/1
+  End Time         : 2000/12/31
+  Coordinates File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Input files\CoordinatesCommunes
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis    : Purely Spatial
+  Probability Model   : Bernoulli
+  Scan for Areas with : High Rates
+
+Output
+------
+  Main Results File       : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.txt
+  Cluster File            : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.col.txt
+  Shapefile               : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.col.shp
+  Cluster File            : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.col.dbf
+  Stratified Cluster File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.sci.txt
+  Stratified Cluster File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.sci.dbf
+  Location File           : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.gis.txt
+  Location File           : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.gis.dbf
+  Risk Estimates File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.rr.txt
+  Risk Estimates File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.rr.dbf
+  Simulated LLRs File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.llr.txt
+  Simulated LLRs File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communes\Results Commune Bernoulli\Res_TF only.llr.dbf
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidian Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Window Shape                 : Circular
+  Isotonic Scan                : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Report Gini Optimized Cluster Collection  : Yes
+  Gini Index Based Collection Reporting     : Optimal Only
+  Report Gini Index Cluster Coefficents     : No
+  Spatial Cluster Maxima                    : 1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 25, 30, 40, 50
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Report Critical Values     : No
+  Report Monte Carlo Rank    : No
+  Print ASCII Column Headers : No
+
+Run Options
+-----------
+  Processer Usage   : All Available Proccessors
+  Suppress Warnings : No
+  Logging Analysis  : Yes
+_______________________________________________________________________________________________
+
+Program completed  : Tue May 19 16:04:27 2015
+Total Running Time : 0 seconds
+Processor Usage    : 4 processors

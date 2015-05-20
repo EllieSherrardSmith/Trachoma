@@ -1,0 +1,180 @@
+                                 _____________________________
+
+                                        SaTScan v9.4.1
+                                 _____________________________
+
+
+Program run on: Mon May 18 12:21:40 2015
+
+Purely Spatial analysis
+scanning for clusters with high rates
+using the Bernoulli model.
+Multivariate scan using 4 data sets.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.................................: 2000/1/1 to 2000/12/31
+Number of locations..........................: 60
+Total population per data set................: 2744, 1425, 571, 571
+Total number of cases per data set...........: 40, 38, 29, 148
+Percent cases in area per data set...........: 1.5, 2.7, 5.1, 25.9
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: BOUYEME, SINDIANZONE2, SINDIANZONE4, MEDJEDJEZONE1, GRANDKOULAYE,
+                          NIANKITE, COUROUCK, MARGOUNE, SILINKINEZONE2, KAGNAROUZONE1
+  Coordinates / radius..: (16.120325 S, 13.032708 E) / 16.12 km
+  Population............: 517, 252, 102, 102
+                          Data Set #1
+  Number of cases.......: 10
+  Expected cases........: 7.54
+  Observed / expected...: 1.33
+  Relative risk.........: 1.44
+  Percent cases in area.: 1.9
+                          Data Set #2
+  Number of cases.......: 12
+  Expected cases........: 6.72
+  Observed / expected...: 1.79
+  Relative risk.........: 2.15
+  Percent cases in area.: 4.8
+                          Data Set #3
+  Number of cases.......: 12
+  Expected cases........: 5.18
+  Observed / expected...: 2.32
+  Relative risk.........: 3.25
+  Percent cases in area.: 11.8
+                          Data Set #4
+  Number of cases.......: 34
+  Expected cases........: 26.44
+  Observed / expected...: 1.29
+  Relative risk.........: 1.37
+  Percent cases in area.: 33.3
+  Log likelihood ratio..: 9.037355
+  P-value...............: 0.073
+
+2.Location IDs included.: HITOU
+  Coordinates / radius..: (16.692008 S, 12.620564 E) / 0 km
+  Population............: 20, 17, 7, 7
+                          Data Set #1
+  Number of cases.......: 3
+  Expected cases........: 0.29
+  Observed / expected...: 10.29
+  Relative risk.........: 11.04
+  Percent cases in area.: 15.0
+                          Data Set #2
+  Number of cases.......: 1
+  Expected cases........: 0.45
+  Observed / expected...: 2.21
+  Relative risk.........: 2.24
+  Percent cases in area.: 5.9
+                          Data Set #3
+  Number of cases.......: 1
+  Expected cases........: 0.36
+  Observed / expected...: 2.81
+  Relative risk.........: 2.88
+  Percent cases in area.: 14.3
+                          Data Set #4
+  Number of cases.......: 3
+  Expected cases........: 1.81
+  Observed / expected...: 1.65
+  Relative risk.........: 1.67
+  Percent cases in area.: 42.9
+  Log likelihood ratio..: 5.740400
+  P-value...............: 0.548
+
+NOTE: The sequential Monte Carlo procedure was used to terminate the calculations after 682
+replications.
+
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File (data set 1)    : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\CasesTT.cas
+  Control File (data set 1) : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\ControlsTT.ctl
+  Time Precision            : None
+  Start Time                : 2000/1/1
+  End Time                  : 2000/12/31
+  Coordinates File          : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\Coordintes.geo
+  Coordinates               : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis    : Purely Spatial
+  Probability Model   : Bernoulli
+  Scan for Areas with : High Rates
+
+Output
+------
+  Main Results File       : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.txt
+  Cluster File            : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.col.txt
+  Shapefile               : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.col.shp
+  Cluster File            : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.col.dbf
+  Stratified Cluster File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.sci.txt
+  Stratified Cluster File : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.sci.dbf
+  Location File           : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.gis.txt
+  Location File           : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.gis.dbf
+  Risk Estimates File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.rr.txt
+  Risk Estimates File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.rr.dbf
+  Simulated LLRs File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.llr.txt
+  Simulated LLRs File     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\TF_Bernoulli_1\Results Bernoulli.llr.dbf
+
+Multiple Data Sets
+------------------
+  Case File (data set 2)        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\CasesTF.cas
+  Control File (data set 2)     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\ControlsTF.ctl
+  Case File (data set 3)        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\CasesBlind.cas
+  Control File (data set 3)     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\ControlsBlind.ctl
+  Case File (data set 4)        : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\CasesLow vision.cas
+  Control File (data set 4)     : C:\Users\Ellie\Documents\RStudioProjects\Trachoma\Files for Satscan\Communities\Input files\ControlsLowVision.ctl
+  Purpose of Multiple Data Sets : Multivariate Analysis
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidian Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Window Shape                 : Circular
+  Isotonic Scan                : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Report Gini Optimized Cluster Collection  : No
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Report Critical Values     : No
+  Report Monte Carlo Rank    : No
+  Print ASCII Column Headers : No
+
+Run Options
+-----------
+  Processer Usage   : All Available Proccessors
+  Suppress Warnings : No
+  Logging Analysis  : Yes
+_______________________________________________________________________________________________
+
+Program completed  : Mon May 18 12:21:41 2015
+Total Running Time : 1 second
+Processor Usage    : 4 processors
